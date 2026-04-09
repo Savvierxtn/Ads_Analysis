@@ -30,7 +30,7 @@ CTR, CPC, CPA, CVR, CPM, Funnel Efficiency
 
 -   PostgreSQL / Supabase
 -   SQL
--   BI Tool
+-   Looker Studio
 
 ## Conclusion
 
